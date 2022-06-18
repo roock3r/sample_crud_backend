@@ -1,0 +1,56 @@
+[
+   {"model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Toy 1",
+      "image": "http://www.mandysam.com/img/random.jpg",
+      "price": "10",
+      "description": "I'm baby hot chicken VHS vape fingerstache kombucha cardigan pork belly gluten-free salvia craft beer raw denim narwhal."
+    }
+  },
+   {"model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Toy 2",
+      "image": "http://www.mandysam.com/img/random.jpg",
+      "price": "20",
+      "description": "I'm baby hot chicken VHS vape fingerstache kombucha cardigan pork belly gluten-free salvia craft beer raw denim narwhal."
+    }
+  },
+   {"model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Toy 3",
+      "image": "http://www.mandysam.com/img/random.jpg",
+      "price": "30",
+      "description": "I'm baby hot chicken VHS vape fingerstache kombucha cardigan pork belly gluten-free salvia craft beer raw denim narwhal."
+    }
+  },
+   {"model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Toy 4",
+      "image": "http://www.mandysam.com/img/random.jpg",
+      "price": "40",
+      "description": "I'm baby hot chicken VHS vape fingerstache kombucha cardigan pork belly gluten-free salvia craft beer raw denim narwhal."
+    }
+  },
+   {"model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Toy 5",
+      "image": "http://www.mandysam.com/img/random.jpg",
+      "price": "50",
+      "description": "I'm baby hot chicken VHS vape fingerstache kombucha cardigan pork belly gluten-free salvia craft beer raw denim narwhal."
+    }
+  },
+   {"model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Toy 5",
+      "image": "http://www.mandysam.com/img/random.jpg",
+      "price": "60",
+      "description": "I'm baby hot chicken VHS vape fingerstache kombucha cardigan pork belly gluten-free salvia craft beer raw denim narwhal."
+    }
+  }
+]
